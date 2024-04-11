@@ -3,7 +3,7 @@
 
  myasm001 w key = +1 score
 
- myasm002
+ myasm002 hitoketa agari
 
   
  ---
