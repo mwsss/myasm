@@ -1,10 +1,10 @@
 # myasm
  msx z80 asm myminisample
 
- myasm001 w key = +1 score
-
- myasm002 hitoketa agari
-
+ myasm004 keta up  
+ myasm003 dammy0 tuika  
+ myasm002 hitoketa agari  
+ myasm001 w key = +1 score  
   
  ---
 using Mr. SAILOR sensei's program  
