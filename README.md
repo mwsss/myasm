@@ -1,6 +1,7 @@
 # myasm
  msx z80 asm myminisample
 
+ myasm006 m_mag x_inv01,02 ugokanai..  
  myasm005 jidou +1 up  
  myasm004 keta up  
  myasm003 dammy0 tuika  
